@@ -1,5 +1,3 @@
-# Rust-Programming-Tutorials
-Rust programming language tutorials for beginners
 
 # Installing rustup on Linux or macOS:
 
